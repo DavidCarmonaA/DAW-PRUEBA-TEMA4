@@ -21,4 +21,5 @@ Yo ya había creado la carpeta "screenshots" dentro del proyecto, por lo que no 
 ![Ejercicio6_3](https://github.com/DavidCarmonaA/DAW-PRUEBA-TEMA4/blob/ec6b66181df86681f83666f01704e9952fd05ae6/screenshots/10.JPG)
 ## EJERCICIO 7
 Aquí es cuando ya he añadido todas las fotos al "README.md" y he hecho el commit final.
-![Ejercicio7_1]()
+![Ejercicio7_1](https://github.com/DavidCarmonaA/DAW-PRUEBA-TEMA4/blob/d026a00884b9ec4f6a5516e75cfefa0673185e77/screenshots/11.JPG)
+![Ejercicio7_2](https://github.com/DavidCarmonaA/DAW-PRUEBA-TEMA4/blob/d026a00884b9ec4f6a5516e75cfefa0673185e77/screenshots/12.JPG)
